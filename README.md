@@ -112,9 +112,9 @@ Descartada la resignación, con este proyecto me he propuesto experimentar con u
 
 Al resultado lo he llamado Retrosantander y está visible —no sé por cuanto tiempo— en [retrosantander.com](https://retrosantander.com).
 
-Se trata de una prueba de concepto que he confeccionado a título personal para explorar mis ideas en torno a una nueva exploración efectiva exploración de esta base de datos multimedia.
+Se trata de una prueba de concepto que he confeccionado a título personal para explorar mis ideas en torno a una nueva exploración efectiva de esta base de datos multimedia.
 
-Me he propuesto destinar tan solo un fin de semano a este reto, razón por la cual debe entenderse como una experimento con defectos y aristas sin pulir.
+Me he propuesto destinar tan solo un fin de semana a este reto, razón por la cual debe entenderse como una experimento con defectos y aristas sin pulir.
 
 Tengo más ideas para este prototipo, que en esta ocasión han de quedarse en el tintero.
 
